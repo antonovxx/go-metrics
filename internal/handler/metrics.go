@@ -1,4 +1,4 @@
-package metricsHandler
+package metrics
 
 import (
 	models "antonovxx/go-metrics/internal/model"
